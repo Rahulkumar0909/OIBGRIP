@@ -18,7 +18,7 @@
 - Select a cheese type.
 - Opt veggies from many options.
 
-5.Integrate the razor pay checkout for payment. Create a dummy account and integrate the test mode. In test mode, on clicking success, place and confirm the order.
+5. Integrate the razor pay checkout for payment. Create a dummy account and integrate the test mode. In test mode, on clicking success, place and confirm the order.
 
 6. In the admin login, create a mini inventory management system keeping track of available pizza base, sauce, cheese, veggies, and meat. 
 
